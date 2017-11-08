@@ -1,1 +1,1 @@
-this is a mini project on 2048 of CTE-Python
+this is a mini project on game Snake of CTE-Python
