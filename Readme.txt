@@ -1,0 +1,1 @@
+this is a mini project on 2048 of CTE-Python
